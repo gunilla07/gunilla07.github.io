@@ -9,7 +9,7 @@
 title: Gunilla在地球最后的夜晚
 email: gunilla1148@gmail.com
 description: Gunilla在地球最后的自留地
-baseurl: "https://github.com/gunilla07" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://github.com/gunilla07" # the base hostname & protocol for your site
 twitter_username: Gunilla
 github_username:  gunilla07
