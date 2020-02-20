@@ -8,16 +8,16 @@
 # Site settings
 title: Gunilla在地球最后的夜晚
 email: gunilla1148@gmail.com
-description: Gunilla在地球最后的自留地
-baseurl: "https://gunilla07.github.io/" # the subpath of your site, e.g. /blog
+description: All farewells should be sudden,when forever
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gunilla07.github.io/" # the base hostname & protocol for your site
 twitter_username: Gunilla
-github_username:  gunilla07
+github_username: gunilla07
 gitalk:
-  clientID:1cf8c9c7c6dca36ed4fc
-  clientSecret:d3699dc182f7228b30a85a2db95cf3513597313e
-  repo:gunilla07.github.io
-  owner:gunilla07
+  clientID: 1cf8c9c7c6dca36ed4fc
+  clientSecret: d3699dc182f7228b30a85a2db95cf3513597313e
+  repo: gunilla07.github.io
+  owner: gunilla07
 
 paginate: 5
 theme-dark: false #Set to true to change to dark website theme
