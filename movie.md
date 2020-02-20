@@ -1,19 +1,7 @@
 ---
-layout: page
+layout: archive
 title: movie
 permalink: /movie/
-
-tagline: "Loved it? tell me"
+category: "movie"
+tagline: "看尽人生百态"
 ---
-
-<br>
-
-
-<div class="intro"><br>
-  <p>
- Hello there! :) <BR><br>
-
- 我是Gunilla，我喜欢看电影. <br><br>
-
- </p>
-</div>

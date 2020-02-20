@@ -3,5 +3,5 @@ layout: archive
 title: book
 permalink: /book/
 category: "book"
-tagline: "it's all about perception."
+tagline: "阅读是我随身携带的避难所."
 ---
