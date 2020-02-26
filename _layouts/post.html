@@ -15,11 +15,11 @@ layout: default
      {% endif %}
    </center>
   </header>
-{% include gitalk.html %}  //把&改成%
+
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
-
+{% include gitalk.html %}
   <footer class="postNavigation">
   {% if page.previous.url %}
     <a class="postPrev" href="{{page.previous.url}}">
