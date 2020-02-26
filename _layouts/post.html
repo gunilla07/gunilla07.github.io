@@ -15,7 +15,7 @@ layout: default
      {% endif %}
    </center>
   </header>
-
+{% include gitalk.html %}  //把&改成%
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
@@ -31,6 +31,9 @@ layout: default
         {{page.next.title}} &raquo;
     </a>
   {% endif %}
+
+
+
   </footer>
 
 
