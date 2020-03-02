@@ -14,10 +14,12 @@ url: "https://gunilla07.github.io/" # the base hostname & protocol for your site
 twitter_username: Gunilla
 github_username: gunilla07
 gitalk:
+  enable: true
   clientID: 1cf8c9c7c6dca36ed4fc
   clientSecret: d3699dc182f7228b30a85a2db95cf3513597313e
   repo: gunilla07.github.io
   owner: gunilla07
+  admin: gunilla07
 
 paginate: 5
 theme-dark: false #Set to true to change to dark website theme
